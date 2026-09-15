@@ -11,5 +11,3 @@
 - 利用疊合解 a sin x+b cos x=c
 - 圓窗內接矩形周長最佳化
 - 100 題題庫，每次隨機抽 5 題
-
-建議 GitHub repository：trig-superposition-lab
